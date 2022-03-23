@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCZAdP+Bfxta1dxQZaaxiakiTpkFJPKHX4u6XKFkqxJZvucVf7sfRLpzwu6Mj6Vk7t2c4ehMXTi5G95rxkmc7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\35191\\Desktop\\TDJ2122Exercises-main\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35191\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\35191\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\35191\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
